@@ -26,4 +26,4 @@ hobbies : ["Art","Reading"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="45" height="45"/>
           
 </p>
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshakhade&layout=compact)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshakhade&layout=compact">
