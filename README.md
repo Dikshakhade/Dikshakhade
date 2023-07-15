@@ -9,7 +9,7 @@
 name : Diksha Khade,
 location : Pune,
 my_interest : ["web development","problem solving"],
-2023_goals : ["learn more technologies in web development "],
+2023_goals : ["Learn more about technologies in frontend development "],
 hobbies : ["Art","Reading"]
 }
 ```
