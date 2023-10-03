@@ -1,6 +1,6 @@
 # My-Profile
 * Hi.. There 💁‍♀️
-* 👩‍💻Im looking for oppourtunites in MERN stack development
+* 👩‍💻Im looking for oppourtunites in Frontend development
 * 💁‍♀️Im dedicated in improving skills through hands-on learning and development work
 
 ## About Myself👩‍💻
