@@ -1,7 +1,7 @@
 # My-Profile
-## Hi.. There 💁‍♀️
-## 👩‍💻 Im looking for oppourtunites in Frontend development
-## 💁‍♀️ Eager to work on Web Dev Projects
+### Hi.. There 💁‍♀️
+### 👩‍💻 Im looking for oppourtunites in Frontend development
+### 💁‍♀️ Eager to work on Web Dev Projects
 
 ## About Myself👩‍💻
 ```
