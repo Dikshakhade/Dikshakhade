@@ -1,20 +1,20 @@
 # My-Profile
-### Hi.. There 💁‍♀️
-### 👩‍💻 Im looking for oppourtunites in Frontend development
+### Hi.. I'm Diksha💁‍♀️
+### 👩‍💻 I'm looking for oppourtunites in Frontend development
 ### 💁‍♀️ Eager to work on Web Dev Projects
 
 ## About Myself👩‍💻
 ```
 {
-name : Diksha Khade,
-location : Pune,
+name :"Diksha",
+location : "Pune",
 my_interest : ["web development","problem solving"],
-2023_goals : ["TypeScript,Next.js"],
+2023_goals : ["TypeScript","Next.js"],
 hobbies : ["Art","Reading"]
 }
 ```
 
-### Languages 
+## Languages 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
