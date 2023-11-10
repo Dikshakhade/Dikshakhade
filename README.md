@@ -1,7 +1,7 @@
 # My-Profile
-* Hi.. There 💁‍♀️
-* 👩‍💻Im looking for oppourtunites in Frontend development
-* 💁‍♀️Im dedicated in improving skills through hands-on learning and development work
+## Hi.. There 💁‍♀️
+## 👩‍💻 Im looking for oppourtunites in Frontend development
+## 💁‍♀️ Eager to work on Web Dev Projects
 
 ## About Myself👩‍💻
 ```
@@ -9,7 +9,7 @@
 name : Diksha Khade,
 location : Pune,
 my_interest : ["web development","problem solving"],
-2023_goals : ["Learn more about technologies in frontend development "],
+2023_goals : ["TypeScript,Next.js"],
 hobbies : ["Art","Reading"]
 }
 ```
